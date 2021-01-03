@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(183, 228, 228);
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color:rgb(43, 36, 36);
+    border-width:10px;
+    width:10%;
+    height:0px;
+}
+h1{
+    color: rgb(35, 35, 54);
+}
+h3{
+    color: rgb(6, 14, 59);
+    transition: background-color .5s;
+}
+.objective{
+    color:rgb(16, 10, 49);
+}
+#myphoto{
+    border-radius: 100%;
+}
+p{
+    color: rgb(6, 14, 59);
+    transition: background-color .5s;
+}
+p:hover{
+    background-color: rgb(255, 255, 255);
+}
+li{
+    color: rgb(6, 14, 59);
+    transition: background-color .5s;
+}
+li:hover{
+    background-color: rgb(255, 255, 255);
+}
